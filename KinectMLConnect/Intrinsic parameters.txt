@@ -1,0 +1,8 @@
+Horizontal Field of View is: 70,6
+Vertical Field of View is: 60
+Diagonal Field of View is: 89,5
+Horizontal focal length is: 364,7747
+Vertical focal length is: 364,7747
+Horizontal principle point is: 259,3027
+Vertical Principal point is: 202,3165
+Radial distortion Second order term is: 0,09062933
